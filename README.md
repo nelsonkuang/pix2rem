@@ -7,7 +7,8 @@ a responsive design soluction for mobile web page [mainly for some certain Chine
 
 Usage 使用方式
 ----------------------------------------------
-Use Gulp in Command line, run ```npm install``` and ```gulp``` Gulp环境命令行通过npm安装, 输入```npm install```和```gulp```
+Use Gulp in Command line, run ```npm install``` and ```gulp```   
+Gulp环境命令行通过npm安装, 输入```npm install```和```gulp```
 ```
 npm install
 gulp
