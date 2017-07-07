@@ -16,4 +16,5 @@ gulp
 Showcase 谁在用
 ----------------------------------------------
 
-[海印优选](http://wx.hiooy.com/wap)
+[海印优选](http://wx.hiooy.com/wap)   
+[海印乐购](http://m.hiooy.cn/)
