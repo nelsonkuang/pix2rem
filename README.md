@@ -1,3 +1,5 @@
+正在优化当中。。。
+
 # pix2rem
 Use Gulp + Sass instead of Grunt + less, check the repos - [hiooyUI/pix2remjs](https://github.com/hiooyUI/pix2remjs), both are the same.
 a responsive design soluction for mobile web page [compatible with all popular mobile / appwebview browsers], meanwhile REM lives harmony with Pixel that means you can use 'px' and 'rem' at the same time. Version v2 is an alternative choice for fixing 1 pixel issue / Chrome mobile mode font-size issue (not supported less than 12px)    
